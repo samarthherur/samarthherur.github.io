@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Samarth Herur"
+title                    : "Samarth's Homepage"
 title_separator          : "-"
 name                     : &name "Samarth Herur"
 description              : &description "personal description"
@@ -21,8 +21,8 @@ repository               : "samarthherur/samartherur.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile2.jpeg"
+  name             : "Samarth Herur"
   pronouns         : # example: "she/her"  
   bio              : "Biological Data Science and ML applications"
   location         : "Bangalore, India"
